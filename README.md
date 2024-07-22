@@ -10,6 +10,10 @@
 
 - ⚡ I think **I am Highly Responsible, Punctual, and Detail-Oriented Professional**
 
+  
+   <img src="https://github.com/hosseindn1998/hosseindn1998/blob/main/Animation.gif" alt="coding" width="500" height="500"/> </a>
+  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hosseindn1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosseindn1998" height="30" width="40" /></a>
