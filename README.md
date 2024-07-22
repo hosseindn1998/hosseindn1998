@@ -11,7 +11,7 @@
 - ⚡ I think **I am Highly Responsible, Punctual, and Detail-Oriented Professional**
 
   
-   <img src="https://github.com/hosseindn1998/hosseindn1998/blob/main/Animation.gif" alt="coding" width="500" height="500"/> </a>
+   <img src="https://github.com/hosseindn1998/hosseindn1998/blob/main/Animation.gif" alt="coding" width="500" height="500" align="center"/> </a>
   
 
 <h3 align="left">Connect with me:</h3>
