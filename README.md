@@ -2,10 +2,6 @@
 <h3 align="center">A Junior Back-End Developer from Iran</h3>
 
 
-- 💬 Ask me about **Java / Spring**
-
-- 📫 How to reach me **hosseindn1998@gmail.com**
-
 - 📄 Know about my experiences [https://github.com/hosseindn1998/resume.git](https://github.com/hosseindn1998/resume.git)
 
 - ⚡ I think **I am Highly Responsible, Punctual, and Detail-Oriented Professional**
